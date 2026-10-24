@@ -8,7 +8,7 @@ Built solo for the Fastn Online Hackathon, on top of Fastn's embedded integratio
 
 | | |
 |---|---|
-| Live demo | https://peacekeeper-voej.onrender.com/ |
+| Live demo | https://peace-keeper.onrender.com/ |
 | Demo video | https://drive.google.com/file/d/1DvncrjbkjFzGqOntrWzJXT0COxhPuovH/view?usp=sharing |
 | Source code | https://github.com/raoqasim404/Peace-Keeper |
 | Fastn workspace | personal_3529c456beb57431d1dd (account: ezipezi54@gmail.com) |
